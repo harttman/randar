@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["harrtman<skyboat.gm@gmail.com>"]
 license = "MIT"
 description = "The engine for create telegram bot"
-repository = "https://harttman/randar/"
+repository = "https://github.com/harttman/randar/"
 
 [dependencies]
 reqwest = { version = "0.12.8", features = ["json"] }
