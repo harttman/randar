@@ -1,0 +1,10 @@
+[package]
+name = "randar"
+version = "0.1.0"
+edition = "2021"
+authors = ["harrtman-<dakiv.work.vitaliy@gmail.com>"]
+license = "MIT"
+description = "The engine for create telegram bot"
+repository = "https://harttman/randar/"
+
+[dependencies]
